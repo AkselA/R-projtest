@@ -1,0 +1,15 @@
+Package: projtest
+Version: 0.1.0.9000
+Date: 2020-03-18
+Title: What Projtest is (One Line, Title Case Required)
+Authors@R: person("First Name", "Last", email="abc@mail.com",
+                   role=c("aut", "cre"))
+Description: A (one paragraph) description of what projtest
+             does and why it may be useful.
+Depends: R (>= 3.5.0)
+Imports: utils
+Suggests: MASS
+License: GPL-3
+URL: https://www.homepage.org, http://www.another.url
+LazyData: true
+Encoding: UTF-8
